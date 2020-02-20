@@ -5,7 +5,7 @@ int main()
 int n,sum;
 cout<<"enter the value of n";
 cin>>n;
-sum=n*(n+1)/2;
-cout<<"sum is "<<sum;
+sum=(n*(n+1))/2;
+cout<<"sum is "<<sum<<endl;
 return 0; 
 }
