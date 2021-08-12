@@ -10,6 +10,7 @@ printf("\n");
 for(j=1;j<=i;j++)
 {
 k++;
+// Added the comment
 printf("%d",k);
 }
 }
